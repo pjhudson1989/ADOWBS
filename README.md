@@ -11,11 +11,16 @@ Develop a small buoy system with the following characteristics:
  - Self-anchoring in waters up to 50 m deep
  - Initial data processing onboard the buoy
  - Automatically connect and transmit processed data via Starlink
- - Totql cost of each buoy should be less than $10K
+ - Total cost of each buoy should be less than $10K
 
 # Development Plan
 To minimize cost, the components of the buoy system should be commerical off-the-shelf.  Integration of components and the communication system, as well as software for controlling and processing the buoy data, are expected to be the critical path. A cyclic integration process with multiple at-sea tests will be used to refine and test the components and overall system.
 
 ## Milestones
-
+- Purchase of components
+- System Integration
+- Testing
+- Prototype deployment
+- Small-scale deployment
+  
 ### Schedule
